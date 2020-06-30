@@ -1,4 +1,7 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="Coverage">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
+  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
